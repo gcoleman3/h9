@@ -3,7 +3,7 @@ from ast import parse
 import telebot
 import requests
 import os
-from telebot import types
+import types
 
 token = '5143471387:AAFdmW6lSK5ECQ14JI_nW4nFqdOwMt3raec'
 bot = telebot.TeleBot(token)
